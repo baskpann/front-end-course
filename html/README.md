@@ -22,7 +22,11 @@ Learning fundamentals of HTML
 16. HTML - What makes HTML5 Better? :heavy_check_mark:
 17. HTML - New Elements & Attributes in HTML5 :heavy_check_mark:
 18. HTML - Design Page Structure Using Semantic Elements :heavy_check_mark:
+<<<<<<< HEAD
 19. HTML - New Semantic Elements: <details> and <summary> :heavy_check_mark:
+=======
+19. HTML - New Semantic Elements: `<details>` and `<summary>` :heavy_check_mark:
+>>>>>>> a996043... Create README
 20. HTML - Introduction to Tables :heavy_check_mark:
 21. HTML - Span table rows and columns :heavy_check_mark:
 22. HTML - Design layouts using Tables :heavy_check_mark:
@@ -40,7 +44,11 @@ Learning fundamentals of HTML
 34. HTML - Forms Practice Problem 1 - Solution
 35. HTML - Adding Videos in a Webpage
 36. HTML - Adding Audio in a Webpage
+<<<<<<< HEAD
 37. HTML - The <embed> element
+=======
+37. HTML - The `<embed>` element
+>>>>>>> a996043... Create README
 38. HTML - Embed Youtube Videos in a Webpage
 39. HTML - Introduction to SVG
 40. HTML - Create circle using SVG
