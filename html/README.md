@@ -34,10 +34,10 @@ Learning fundamentals of HTML
 28. HTML - Form Methods: GET and POST :heavy_check_mark:
 29. HTML - New Form Elements :heavy_check_mark:
 30. HTML - New Form Input Types :heavy_check_mark:
-31. HTML - New Form Input Attributes
-32. HTML - Form Validation
-33. HTML - Forms Practice Problem 1
-34. HTML - Forms Practice Problem 1 - Solution
+31. HTML - New Form Input Attributes :heavy_check_mark:
+32. HTML - Form Validation :heavy_check_mark:
+33. HTML - Forms Practice Problem 1 :heavy_check_mark:
+34. HTML - Forms Practice Problem 1 - Solution :heavy_check_mark:
 35. HTML - Adding Videos in a Webpage
 36. HTML - Adding Audio in a Webpage
 37. HTML - The `<embed>` element
