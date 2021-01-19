@@ -31,9 +31,9 @@ Learning fundamentals of HTML
 25. HTML - Introduction to Forms :heavy_check_mark:
 26. HTML - Form Input Types :heavy_check_mark:
 27. HTML - Adding Styles to Forms :heavy_check_mark:
-28. HTML - Form Methods: GET and POST
-29. HTML - New Form Elements
-30. HTML - New Form Input Types
+28. HTML - Form Methods: GET and POST :heavy_check_mark:
+29. HTML - New Form Elements :heavy_check_mark:
+30. HTML - New Form Input Types :heavy_check_mark:
 31. HTML - New Form Input Attributes
 32. HTML - Form Validation
 33. HTML - Forms Practice Problem 1
