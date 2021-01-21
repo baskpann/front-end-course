@@ -38,11 +38,11 @@ Learning fundamentals of HTML
 32. HTML - Form Validation :heavy_check_mark:
 33. HTML - Forms Practice Problem 1 :heavy_check_mark:
 34. HTML - Forms Practice Problem 1 - Solution :heavy_check_mark:
-35. HTML - Adding Videos in a Webpage
-36. HTML - Adding Audio in a Webpage
-37. HTML - The `<embed>` element
-38. HTML - Embed Youtube Videos in a Webpage
-39. HTML - Introduction to SVG
-40. HTML - Create circle using SVG
-41. HTML - Create a rectangle using SVG
+35. HTML - Adding Videos in a Webpage :heavy_check_mark:
+36. HTML - Adding Audio in a Webpage :heavy_check_mark:
+37. HTML - The `<embed>` element :heavy_check_mark:
+38. HTML - Embed Youtube Videos in a Webpage :heavy_check_mark:
+39. HTML - Introduction to SVG :heavy_check_mark:
+40. HTML - Create circle using SVG :heavy_check_mark:
+41. HTML - Create a rectangle using SVG :heavy_check_mark:
 42. HTML - Final Project
