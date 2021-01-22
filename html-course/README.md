@@ -45,4 +45,4 @@ Learning fundamentals of HTML
 39. HTML - Introduction to SVG :heavy_check_mark:
 40. HTML - Create circle using SVG :heavy_check_mark:
 41. HTML - Create a rectangle using SVG :heavy_check_mark:
-42. HTML - Final Project
+42. HTML - Final Project :heavy_check_mark:

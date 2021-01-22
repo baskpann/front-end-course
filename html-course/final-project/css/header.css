@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: lightgray;
+}
+
+#head {
+    text-align: center;
+    background-color: blue;
+    padding: 16px;
+}
+
+#head a {
+    color: white;
+    padding: 16px;
+}
