@@ -4,10 +4,10 @@ Learning CSS
 
 ## Content
 
-1. CSS - Introduction
-2. CSS - How to use CSS?
-3. CSS - Styling Text
-4. CSS - Adding Borders
+1. CSS - Introduction :heavy_check_mark:
+2. CSS - How to use CSS? :heavy_check_mark:
+3. CSS - Styling Text :heavy_check_mark:
+4. CSS - Adding Borders :heavy_check_mark:
 5. CSS - Margin and Padding
 6. CSS - Styling Lists
 7. CSS - Styling Links
