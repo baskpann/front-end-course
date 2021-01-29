@@ -1,0 +1,24 @@
+#second-para {
+    padding-top: 16px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 16px;
+
+    margin-top: 48px;
+    margin-right: 32px;
+    margin-bottom: 48px;
+    margin-left: 32px;
+}
+
+/* padding => space added with the margin(within the block)
+ * padding: top-right-bottom-left;
+ * padding: top, right, bottom, left; goes in clockwise
+ * padding: top-bottom, left-right; 
+ * gets overridden by the individual padding attribs
+
+ * margin => added outside the element(outside the block)
+ * margin: top-right-bottom-left;
+ * margin: top, right, bottom, left;
+ * margin: top-bottom, left-right;
+ * gets overridden by the individual margin attribs
+*/

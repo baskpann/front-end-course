@@ -1,0 +1,14 @@
+#ordered_list {
+    list-style-type: decimal-leading-zero;
+    width: 500px;
+    list-style-position: inside;
+}
+
+#unordered_list {
+    padding-left: 0;
+    list-style-type: none;
+}
+/* 
+ * ordered-list => list-style-type: none, upper-[alpha, roman, greek, latin] | lower-[alpha, roman, greek, latin], decimal, decimal-leading-zero;
+ * unordered-list => list-style-type: square, none, square;
+*/
