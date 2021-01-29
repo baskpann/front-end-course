@@ -8,10 +8,10 @@ Learning CSS
 2. CSS - How to use CSS? :heavy_check_mark:
 3. CSS - Styling Text :heavy_check_mark:
 4. CSS - Adding Borders :heavy_check_mark:
-5. CSS - Margin and Padding
-6. CSS - Styling Lists
-7. CSS - Styling Links
-8. CSS - Styling Buttons
+5. CSS - Margin and Padding :heavy_check_mark:
+6. CSS - Styling Lists :heavy_check_mark:
+7. CSS - Styling Links :heavy_check_mark:
+8. CSS - Styling Buttons :pause_button:
 9. CSS - Adding Icons
 10. CSS - Working with Display Values
 11. CSS - Display value: Inline-Block
